@@ -1,0 +1,39 @@
+{
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Comedy"
+    },
+    {
+      "id": 3,
+      "name": "Thriller"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Hum App k Hai kyun+6",
+      "genreId": "1",
+      "numberInStock": 1,
+      "dailyRentalRate": 2
+    },
+    {
+      "id": 2,
+      "title": "Terminator",
+      "genreId": "2",
+      "numberInStock": "11",
+      "dailyRentalRate": "6"
+    },
+    {
+      "id": 3,
+      "title": "kuch kuch hota hai",
+      "genreId": "1",
+      "numberInStock": "6.6",
+      "dailyRentalRate": "2.5"
+    }
+  ]
+}
